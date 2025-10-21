@@ -24,7 +24,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-# EX-02-Functions in Python: Modulo Calculator
+# EX-02-Functions in Python- Modulo Calculator
 
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
@@ -56,7 +56,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-# EX-03-Lambda Function in Python: Addition of Two Numbers
+# EX-03-Lambda Function in Python- Addition of Two Numbers
 
 ## 🎯 Aim
 To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
@@ -135,7 +135,7 @@ Thus,the program has been executed sucessfully.
 ```
 
 
-## EX-05-Loops in Python: Palindrome Number Checker
+## EX-05-Loops in Python- Palindrome Number Checker
 
 ## 🎯 Aim
 To write a Python program that checks whether a given number is a **palindrome** using loops.
